@@ -37,6 +37,7 @@ class Factory {
     
     //this function creates a random card to go into the column array & tests to make sure the same value is not already there
     //it gets called in the createSlotsMainArray above
+    
     class func createSlot (currentCards: [Slot]) -> Slot {
 
         //create a TEST array to hold slot values ready to use to comparte to the new value created

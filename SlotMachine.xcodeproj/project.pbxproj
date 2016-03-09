@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C1AD868C1C7E1194000426B3 /* Slot.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1AD868B1C7E1194000426B3 /* Slot.swift */; };
 		C1AD868E1C7E3F1B000426B3 /* Factory.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1AD868D1C7E3F1B000426B3 /* Factory.swift */; };
+		C1B9C59B1C88CD44003CD897 /* SlotBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1B9C59A1C88CD44003CD897 /* SlotBrain.swift */; };
 		C1F3BE881C725F0D00BBB72B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F3BE871C725F0D00BBB72B /* AppDelegate.swift */; };
 		C1F3BE8A1C725F0D00BBB72B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F3BE891C725F0D00BBB72B /* ViewController.swift */; };
 		C1F3BE8D1C725F0D00BBB72B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1F3BE8B1C725F0D00BBB72B /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		C1AD868B1C7E1194000426B3 /* Slot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Slot.swift; sourceTree = "<group>"; };
 		C1AD868D1C7E3F1B000426B3 /* Factory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Factory.swift; sourceTree = "<group>"; };
+		C1B9C59A1C88CD44003CD897 /* SlotBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlotBrain.swift; sourceTree = "<group>"; };
 		C1F3BE841C725F0D00BBB72B /* SlotMachine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlotMachine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1F3BE871C725F0D00BBB72B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C1F3BE891C725F0D00BBB72B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				C1F3BE891C725F0D00BBB72B /* ViewController.swift */,
 				C1AD868B1C7E1194000426B3 /* Slot.swift */,
 				C1AD868D1C7E3F1B000426B3 /* Factory.swift */,
+				C1B9C59A1C88CD44003CD897 /* SlotBrain.swift */,
 				C1F3BE8B1C725F0D00BBB72B /* Main.storyboard */,
 				C1F3BE8E1C725F0D00BBB72B /* Assets.xcassets */,
 				C1F3BE901C725F0D00BBB72B /* LaunchScreen.storyboard */,
@@ -269,6 +272,7 @@
 				C1F3BE8A1C725F0D00BBB72B /* ViewController.swift in Sources */,
 				C1AD868C1C7E1194000426B3 /* Slot.swift in Sources */,
 				C1F3BE881C725F0D00BBB72B /* AppDelegate.swift in Sources */,
+				C1B9C59B1C88CD44003CD897 /* SlotBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
